@@ -30,6 +30,16 @@ soy un SysAdmin Hacker o algo así, **Me gusta la logica 💗 busco automatizar 
 ![Git](https://img.shields.io/badge/-Git-311701?style=for-the-badge&color=1e1e2e&logo=Git&logoColor=F05032)
 ![Github](https://img.shields.io/badge/-Github-311701?style=for-the-badge&color=1e1e2e&logo=Github&logoColor=181717)
 
+**Aprendiendo**
+Android / Ios
+![Dart](https://img.shields.io/badge/-Dart-311701?style=for-the-badge&color=1e1e2e&logo=Dart&logoColor=0175C2)
+![Flutter](https://img.shields.io/badge/-Flutter-311701?style=for-the-badge&color=1e1e2e&logo=Flutter&logoColor=02569B)
+
+Web
+![React](https://img.shields.io/badge/-React-311701?style=for-the-badge&color=1e1e2e&logo=React&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-311701?style=for-the-badge&color=1e1e2e&logo=Node.js&logoColor=339933)
+![Chacra-ui](https://img.shields.io/badge/-Chacra-ui-311701?style=for-the-badge&color=1e1e2e&logo=Chacra%20ui&logoColor=319795)
+
 **Comunicación**
 
 ![Zoom](https://img.shields.io/badge/-Zoom-311701?style=for-the-badge&color=1e1e2e&logo=Zoom&logoColor=0B5CFF)
