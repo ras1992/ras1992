@@ -47,11 +47,13 @@ Web
 
 ![Zoom](https://img.shields.io/badge/-Zoom-311701?style=for-the-badge&color=1e1e2e&logo=Zoom&logoColor=0B5CFF)
 ![Discord](https://img.shields.io/badge/-Discord-311701?style=for-the-badge&color=1e1e2e&logo=Discord&logoColor=5865F2)
-           
+
+Gmail: kuspita20@gmail.com
 
 #**Estadísticas de GitHub**
 
 <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=ras1992&show_icons=true&bg_color=1F2229&border_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF&icon_color=367bf0" alt="ras1992" />	
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ras1992&layout=compact&show_icons=true&bg_color=1F2229&border_color=FFFFFF&title_color=FFFFFF&icon_color=367bf0&text_color=FFFFFF&langs_count=6" height="170" align="left" alt="lang" />
+
 
 <!-- Kuspita20 <3 -->
