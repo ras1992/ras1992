@@ -1,6 +1,6 @@
 <h1 align="center">Hola, Yo soy Kuspita Ramiro 👋 </h1>
 
-soy un SysAdmin Hacker o algo así, **Me gusta la logica 💗 busco automatizar todo lo que toco**, no soy muy bueno con crear diseños, pero si copiando a detalle.
+soy un SysAdmin Hacker o algo así, **Me gusta la logica 💗 busco automatizar todo lo que toco**.
 
 #**Herramientas y tecnologías que utilizo:**
 
