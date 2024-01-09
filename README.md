@@ -27,11 +27,6 @@ soy un SysAdmin Hacker o algo así, **Me gusta la logica 💗 busco automatizar 
 ![MySQL](https://img.shields.io/badge/-MySQL-311701?style=for-the-badge&color=1e1e2e&logo=MySQL&logoColor=4479A1)
 ![Firebase](https://img.shields.io/badge/-Firebase-311701?style=for-the-badge&color=1e1e2e&logo=Firebase&logoColor=FFCA28)
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-311701?style=for-the-badge&color=1e1e2e&logo=MongoDB&logoColor=47A248)
-![Express](https://img.shields.io/badge/-Express-311701?style=for-the-badge&color=1e1e2e&logo=Express&logoColor=000000)
-![React](https://img.shields.io/badge/-React-311701?style=for-the-badge&color=1e1e2e&logo=React&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-311701?style=for-the-badge&color=1e1e2e&logo=Node.js&logoColor=339933)
-
 ![Git](https://img.shields.io/badge/-Git-311701?style=for-the-badge&color=1e1e2e&logo=Git&logoColor=F05032)
 ![Github](https://img.shields.io/badge/-Github-311701?style=for-the-badge&color=1e1e2e&logo=Github&logoColor=181717)
 
@@ -44,9 +39,13 @@ Android / IOs
 
 Web
 
+![MongoDB](https://img.shields.io/badge/-MongoDB-311701?style=for-the-badge&color=1e1e2e&logo=MongoDB&logoColor=47A248)
+![Express](https://img.shields.io/badge/-Express-311701?style=for-the-badge&color=1e1e2e&logo=Express&logoColor=000000)
 ![React](https://img.shields.io/badge/-React-311701?style=for-the-badge&color=1e1e2e&logo=React&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/-Node.js-311701?style=for-the-badge&color=1e1e2e&logo=Node.js&logoColor=339933)
+
 ![Chacra ui](https://img.shields.io/badge/-Chacra_ui-311701?style=for-the-badge&color=1e1e2e&logo=Chakra%20ui&logoColor=319795)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-311701?style=for-the-badge&color=1e1e2e&logo=Tailwind_CSS%20ui&logoColor=06B6D4)
 
 #**Comunicación**
 
