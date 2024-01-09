@@ -43,7 +43,7 @@ Web
 ![Node.js](https://img.shields.io/badge/-Node.js-311701?style=for-the-badge&color=1e1e2e&logo=Node.js&logoColor=339933)
 
 ![Chacra ui](https://img.shields.io/badge/-Chacra_ui-311701?style=for-the-badge&color=1e1e2e&logo=Chakra%20ui&logoColor=319795)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-311701?style=for-the-badge&color=1e1e2e&logo=tailwindcss%20ui&logoColor=06B6D4)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-311701?style=for-the-badge&color=1e1e2e&logo=tailwind_css%20ui&logoColor=06B6D4)
 
 #**Comunicación**
 
