@@ -30,8 +30,6 @@ soy un SysAdmin Hacker o algo así, **Me gusta la logica 💗 busco automatizar 
 ![Git](https://img.shields.io/badge/-Git-311701?style=for-the-badge&color=1e1e2e&logo=Git&logoColor=F05032)
 ![Github](https://img.shields.io/badge/-Github-311701?style=for-the-badge&color=1e1e2e&logo=Github&logoColor=181717)
 
-#**Aprendiendo**
-
 Android / IOs
 
 ![Dart](https://img.shields.io/badge/-Dart-311701?style=for-the-badge&color=1e1e2e&logo=Dart&logoColor=0175C2)
